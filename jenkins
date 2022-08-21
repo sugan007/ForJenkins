@@ -10,8 +10,8 @@ node{
     stage('Build'){
     bat 'mvn clean test install'
     archiveArtifacts artifacts: 'target/surefire-reports/**'
-    sh 'mvn clean package -DskipTests' 
-                archiveArtifacts artifacts: 'target/*'
+//    sh 'mvn clean package -DskipTests' 
+ //               archiveArtifacts artifacts: 'target/*'
     }
     
 }

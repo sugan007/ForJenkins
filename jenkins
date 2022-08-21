@@ -1,7 +1,14 @@
 node{
-   stage ('Pre-Build'){
-      
+   stage ('Pre-Build'){      
          echo "hello"
-                 
-            }
+    }
+    stage('Check-out'){
+         checkout([$class: 'GitSCM',
+         branches: [[name: '*/master']],
+         userRemoteConfigs: [[url: 'https://github.com/sugan007/ForJenkins.git']]])
+    }
+    stage('Build'){
+    bat 'mvn clean test'
+    }
+    
 }

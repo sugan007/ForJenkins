@@ -8,7 +8,7 @@ node{
          userRemoteConfigs: [[url: 'https://github.com/sugan007/ForJenkins.git']]])
     }
     stage('Build'){
-    bat 'mvn clean test'
+    bat 'mvn clean test install'
     archiveArtifacts artifacts: 'target/surefire-reports/**'
     sh 'mvn clean package -DskipTests' 
                 archiveArtifacts artifacts: 'target/***.jar'

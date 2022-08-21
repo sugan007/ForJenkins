@@ -1,0 +1,26 @@
+pipeline {
+    agent any
+    stages {
+        stage('Pre-Build') { 
+            steps {
+                // 
+                echo "hello"
+                 
+            }
+        }
+        stage('CheckIn'){
+             
+              steps {
+                  checkout([$class: 'GitSCM',
+         branches: [[name: '*/master']],
+         userRemoteConfigs: [[url: 'https://github.com/sugan007/ForJenkins.git']]])
+                }
+        }
+        
+        stage('Build'){
+            steps{
+               bat 'mvn clean test'
+            }
+        }
+    }
+}

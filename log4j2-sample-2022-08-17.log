@@ -1,0 +1,226 @@
+[INFO ] 2022-08-17 15:08:57.874 [main] Log - Tests is starting!
+[INFO ] 2022-08-17 15:08:59.577 [main] Log - Opening N11 Website.
+[INFO ] 2022-08-17 15:09:04.128 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 15:09:05.270 [main] Log - Opening N11 Website.
+[INFO ] 2022-08-17 15:09:05.841 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 15:09:07.509 [main] Log - Tests are ending!
+[INFO ] 2022-08-17 15:13:11.665 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-08-17 15:13:11.680 [main] Log - Tests is starting!
+[INFO ] 2022-08-17 15:13:13.250 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-17 15:13:13.416 [main] Log - Opening N11 Website.
+[INFO ] 2022-08-17 15:13:28.400 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is skipped.
+[INFO ] 2022-08-17 15:13:28.402 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-17 15:13:28.402 [main] Log - Opening N11 Website.
+[INFO ] 2022-08-17 15:13:39.469 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is failed.
+[INFO ] 2022-08-17 15:13:39.559 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-17 15:13:39.559 [main] Log - Opening N11 Website.
+[INFO ] 2022-08-17 15:13:52.979 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is skipped.
+[INFO ] 2022-08-17 15:13:52.982 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-17 15:13:52.982 [main] Log - Opening N11 Website.
+[INFO ] 2022-08-17 15:14:06.312 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is failed.
+[INFO ] 2022-08-17 15:14:06.407 [main] Log - Tests are ending!
+[INFO ] 2022-08-17 15:14:06.645 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-08-17 15:14:47.110 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-08-17 15:14:47.132 [main] Log - Tests is starting!
+[INFO ] 2022-08-17 15:14:48.795 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-17 15:14:48.929 [main] Log - Opening N11 Website.
+[INFO ] 2022-08-17 15:15:04.530 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is skipped.
+[INFO ] 2022-08-17 15:15:04.531 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-17 15:15:04.532 [main] Log - Opening N11 Website.
+[INFO ] 2022-08-17 15:15:15.705 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is failed.
+[INFO ] 2022-08-17 15:15:15.910 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-17 15:15:15.911 [main] Log - Opening N11 Website.
+[INFO ] 2022-08-17 15:15:29.954 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is skipped.
+[INFO ] 2022-08-17 15:15:29.956 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-17 15:15:29.956 [main] Log - Opening N11 Website.
+[INFO ] 2022-08-17 15:15:41.094 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is failed.
+[INFO ] 2022-08-17 15:15:41.299 [main] Log - Tests are ending!
+[INFO ] 2022-08-17 15:15:41.506 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-08-17 18:03:53.995 [main] Log - Tests is starting!
+[INFO ] 2022-08-17 18:03:55.501 [main] Log - Tests are ending!
+[INFO ] 2022-08-17 18:04:09.002 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-08-17 18:04:09.018 [main] Log - Tests is starting!
+[INFO ] 2022-08-17 18:04:10.371 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-08-17 18:04:10.489 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is succeed.
+[INFO ] 2022-08-17 18:04:10.494 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-17 18:04:10.496 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is succeed.
+[INFO ] 2022-08-17 18:04:10.497 [main] Log - Tests are ending!
+[INFO ] 2022-08-17 18:04:10.641 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-08-17 18:04:48.461 [main] Log - Tests is starting!
+[INFO ] 2022-08-17 18:04:49.931 [main] Log - Tests are ending!
+[INFO ] 2022-08-17 18:08:55.011 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-08-17 18:08:55.033 [main] Log - Tests is starting!
+[INFO ] 2022-08-17 18:08:56.351 [main] Log - invalidLoginTest_ValidUserNameValidPassword test is starting.
+[INFO ] 2022-08-17 18:08:56.473 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 18:08:56.736 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 18:08:56.959 [main] Log - invalidLoginTest_ValidUserNameValidPassword test is succeed.
+[INFO ] 2022-08-17 18:08:56.966 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-17 18:08:56.966 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 18:08:57.004 [main] Log - Verifying login username.
+[INFO ] 2022-08-17 18:09:07.639 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is skipped.
+[INFO ] 2022-08-17 18:09:07.642 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-17 18:09:07.642 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 18:09:07.710 [main] Log - Verifying login username.
+[INFO ] 2022-08-17 18:09:18.215 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is failed.
+[INFO ] 2022-08-17 18:09:18.418 [main] Log - Tests are ending!
+[INFO ] 2022-08-17 18:09:18.605 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-08-17 18:24:17.617 [main] Log - Tests is starting!
+[INFO ] 2022-08-17 18:24:19.175 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 18:29:07.118 [main] Log - Tests is starting!
+[INFO ] 2022-08-17 18:29:08.815 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 18:29:09.119 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 18:29:09.404 [main] Log - Tests are ending!
+[INFO ] 2022-08-17 18:29:37.263 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-08-17 18:29:37.280 [main] Log - Tests is starting!
+[INFO ] 2022-08-17 18:29:38.623 [main] Log - invalidLoginTest_ValidUserNameValidPassword test is starting.
+[INFO ] 2022-08-17 18:29:38.737 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 18:29:39.030 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 18:29:39.265 [main] Log - invalidLoginTest_ValidUserNameValidPassword test is succeed.
+[INFO ] 2022-08-17 18:29:39.269 [main] Log - Tests are ending!
+[INFO ] 2022-08-17 18:29:39.408 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-08-17 18:31:04.672 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-08-17 18:31:04.692 [main] Log - Tests is starting!
+[INFO ] 2022-08-17 18:31:06.057 [main] Log - invalidLoginTest_ValidUserNameValidPassword test is starting.
+[INFO ] 2022-08-17 18:31:06.178 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 18:31:06.449 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 18:31:06.686 [main] Log - invalidLoginTest_ValidUserNameValidPassword test is succeed.
+[INFO ] 2022-08-17 18:31:06.692 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-17 18:31:06.693 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 18:31:06.746 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 18:31:06.891 [main] Log - Verifying login username.
+[INFO ] 2022-08-17 18:31:07.059 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is skipped.
+[INFO ] 2022-08-17 18:31:07.060 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-17 18:31:07.061 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 18:31:07.101 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 18:31:07.234 [main] Log - Verifying login username.
+[INFO ] 2022-08-17 18:31:07.274 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is failed.
+[INFO ] 2022-08-17 18:31:07.375 [main] Log - Tests are ending!
+[INFO ] 2022-08-17 18:31:07.542 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-08-17 18:34:23.937 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-08-17 18:34:23.955 [main] Log - Tests is starting!
+[INFO ] 2022-08-17 18:34:25.346 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-17 18:34:25.467 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 18:34:25.748 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 18:34:25.932 [main] Log - Verifying login username.
+[INFO ] 2022-08-17 18:34:26.144 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is skipped.
+[INFO ] 2022-08-17 18:34:26.145 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-17 18:34:26.146 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 18:34:26.293 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 18:34:26.422 [main] Log - Verifying login username.
+[INFO ] 2022-08-17 18:34:26.459 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is failed.
+[INFO ] 2022-08-17 18:34:26.579 [main] Log - Tests are ending!
+[INFO ] 2022-08-17 18:34:26.726 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-08-17 18:36:33.622 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-08-17 18:36:33.640 [main] Log - Tests is starting!
+[INFO ] 2022-08-17 18:36:34.959 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-17 18:36:35.088 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 18:36:35.408 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 18:36:35.592 [main] Log - Verifying login username.
+[INFO ] 2022-08-17 18:36:35.722 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is skipped.
+[INFO ] 2022-08-17 18:36:35.724 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-17 18:36:35.725 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 18:36:35.784 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 18:36:35.921 [main] Log - Verifying login username.
+[INFO ] 2022-08-17 18:36:35.959 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is failed.
+[INFO ] 2022-08-17 18:36:36.070 [main] Log - Tests are ending!
+[INFO ] 2022-08-17 18:36:36.199 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-08-17 18:44:03.892 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-08-17 18:44:03.912 [main] Log - Tests is starting!
+[INFO ] 2022-08-17 18:44:05.287 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-17 18:44:05.416 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 18:44:05.711 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 18:44:05.917 [main] Log - Verifying login username.
+[INFO ] 2022-08-17 18:44:06.080 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is skipped.
+[INFO ] 2022-08-17 18:44:06.081 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-17 18:44:06.083 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 18:44:06.195 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 18:44:06.331 [main] Log - Verifying login username.
+[INFO ] 2022-08-17 18:44:06.370 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is failed.
+[INFO ] 2022-08-17 18:44:06.483 [main] Log - Tests are ending!
+[INFO ] 2022-08-17 18:44:06.642 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-08-17 19:18:16.908 [main] Log - Tests is starting!
+[INFO ] 2022-08-17 19:18:19.050 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 19:18:19.330 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 19:18:19.543 [main] Log - Verifying login username.
+[INFO ] 2022-08-17 19:18:19.593 [main] Log - Tests are ending!
+[INFO ] 2022-08-17 19:30:17.960 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-08-17 19:30:17.977 [main] Log - Tests is starting!
+[INFO ] 2022-08-17 19:30:19.357 [main] Log - invalidLoginTest_ValidUserNameValidPassword test is starting.
+[INFO ] 2022-08-17 19:30:19.475 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 19:30:19.785 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 19:30:20.002 [main] Log - invalidLoginTest_ValidUserNameValidPassword test is succeed.
+[INFO ] 2022-08-17 19:30:20.012 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is failed.
+[INFO ] 2022-08-17 19:30:20.156 [main] Log - Tests are ending!
+[INFO ] 2022-08-17 19:30:20.310 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-08-17 19:31:06.608 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-08-17 19:31:06.623 [main] Log - Tests is starting!
+[INFO ] 2022-08-17 19:31:07.936 [main] Log - invalidLoginTest_ValidUserNameValidPassword test is starting.
+[INFO ] 2022-08-17 19:31:08.055 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 19:31:08.363 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 19:31:08.589 [main] Log - invalidLoginTest_ValidUserNameValidPassword test is succeed.
+[INFO ] 2022-08-17 19:31:08.600 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-17 19:31:08.601 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 19:31:08.672 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 19:31:08.817 [main] Log - Verifying login error: Epic sadface: Username is required
+[INFO ] 2022-08-17 19:31:08.863 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is succeed.
+[INFO ] 2022-08-17 19:31:08.864 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-17 19:31:08.865 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 19:31:08.919 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 19:31:09.069 [main] Log - Verifying login error: Epic sadface: Password is required
+[INFO ] 2022-08-17 19:31:09.108 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is succeed.
+[INFO ] 2022-08-17 19:31:09.109 [main] Log - Tests are ending!
+[INFO ] 2022-08-17 19:31:09.256 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-08-17 19:31:20.043 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-08-17 19:31:20.059 [main] Log - Tests is starting!
+[INFO ] 2022-08-17 19:31:21.424 [main] Log - invalidLoginTest_ValidUserNameValidPassword test is starting.
+[INFO ] 2022-08-17 19:31:21.566 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 19:31:21.846 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 19:31:22.072 [main] Log - invalidLoginTest_ValidUserNameValidPassword test is succeed.
+[INFO ] 2022-08-17 19:31:22.078 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-17 19:31:22.079 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 19:31:22.124 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 19:31:22.277 [main] Log - Verifying login error: Epic sadface: Username is required
+[INFO ] 2022-08-17 19:31:22.320 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is succeed.
+[INFO ] 2022-08-17 19:31:22.320 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-17 19:31:22.321 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 19:31:22.455 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 19:31:22.599 [main] Log - Verifying login error: Epic sadface: Password is required
+[INFO ] 2022-08-17 19:31:22.641 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is succeed.
+[INFO ] 2022-08-17 19:31:22.642 [main] Log - Tests are ending!
+[INFO ] 2022-08-17 19:31:22.793 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-08-17 20:10:37.994 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-08-17 20:10:38.012 [main] Log - Tests is starting!
+[INFO ] 2022-08-17 20:10:39.458 [main] Log - invalidLoginTest_ValidUserNameValidPassword test is starting.
+[INFO ] 2022-08-17 20:10:39.589 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 20:10:40.499 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 20:10:40.723 [main] Log - invalidLoginTest_ValidUserNameValidPassword test is succeed.
+[INFO ] 2022-08-17 20:10:40.731 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-17 20:10:40.731 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 20:10:40.779 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 20:10:40.934 [main] Log - Verifying login error: Epic sadface: Username is required
+[INFO ] 2022-08-17 20:10:40.981 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is succeed.
+[INFO ] 2022-08-17 20:10:40.982 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-17 20:10:40.982 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 20:10:41.037 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 20:10:41.179 [main] Log - Verifying login error: Epic sadface: Password is required
+[INFO ] 2022-08-17 20:10:41.218 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is succeed.
+[INFO ] 2022-08-17 20:10:41.219 [main] Log - Tests are ending!
+[INFO ] 2022-08-17 20:10:41.345 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-08-17 20:12:35.023 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-08-17 20:12:35.044 [main] Log - Tests is starting!
+[INFO ] 2022-08-17 20:12:36.524 [main] Log - invalidLoginTest_ValidUserNameValidPassword test is starting.
+[INFO ] 2022-08-17 20:12:36.665 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 20:12:36.946 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 20:12:37.180 [main] Log - invalidLoginTest_ValidUserNameValidPassword test is succeed.
+[INFO ] 2022-08-17 20:12:37.186 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-17 20:12:37.189 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 20:12:37.240 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 20:12:37.400 [main] Log - Verifying login error: Epic sadface: Username is required
+[INFO ] 2022-08-17 20:12:37.456 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is succeed.
+[INFO ] 2022-08-17 20:12:37.457 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-17 20:12:37.458 [main] Log - Going to Login Page..
+[INFO ] 2022-08-17 20:12:37.555 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-17 20:12:37.726 [main] Log - Verifying login error: Epic sadface: Password is required
+[INFO ] 2022-08-17 20:12:37.769 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is succeed.
+[INFO ] 2022-08-17 20:12:37.770 [main] Log - Tests are ending!
+[INFO ] 2022-08-17 20:12:37.915 [main] Log - I am in onFinish method LoginTest

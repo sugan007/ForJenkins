@@ -1,0 +1,36 @@
+[INFO ] 2022-08-21 10:47:25.499 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-08-21 10:47:25.537 [main] Log - Tests is starting!
+[INFO ] 2022-08-21 10:47:32.724 [main] Log - invalidLoginTest_ValidUserNameValidPassword test is starting.
+[INFO ] 2022-08-21 10:47:33.283 [main] Log - Going to Login Page..
+[INFO ] 2022-08-21 10:47:34.446 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-21 10:47:35.166 [main] Log - invalidLoginTest_ValidUserNameValidPassword test is succeed.
+[INFO ] 2022-08-21 10:47:35.185 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-21 10:47:35.188 [main] Log - Going to Login Page..
+[INFO ] 2022-08-21 10:47:35.282 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-21 10:47:35.753 [main] Log - Verifying login error: Epic sadface: Username is required
+[INFO ] 2022-08-21 10:47:35.907 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is succeed.
+[INFO ] 2022-08-21 10:47:35.909 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-21 10:47:35.910 [main] Log - Going to Login Page..
+[INFO ] 2022-08-21 10:47:36.007 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-21 10:47:36.517 [main] Log - Verifying login error: Epic sadface: Password is required
+[INFO ] 2022-08-21 10:47:36.672 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is succeed.
+[INFO ] 2022-08-21 10:47:36.674 [main] Log - Tests are ending!
+[INFO ] 2022-08-21 10:47:36.868 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-08-21 10:48:23.285 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-08-21 10:48:23.307 [main] Log - Tests is starting!
+[INFO ] 2022-08-21 10:48:25.989 [main] Log - invalidLoginTest_ValidUserNameValidPassword test is starting.
+[INFO ] 2022-08-21 10:48:26.547 [main] Log - Going to Login Page..
+[INFO ] 2022-08-21 10:48:27.175 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-21 10:48:27.684 [main] Log - invalidLoginTest_ValidUserNameValidPassword test is succeed.
+[INFO ] 2022-08-21 10:48:27.696 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-21 10:48:27.697 [main] Log - Going to Login Page..
+[INFO ] 2022-08-21 10:48:27.772 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-21 10:48:28.185 [main] Log - Verifying login error: Epic sadface: Username is required
+[INFO ] 2022-08-21 10:48:28.341 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is succeed.
+[INFO ] 2022-08-21 10:48:28.343 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-08-21 10:48:28.344 [main] Log - Going to Login Page..
+[INFO ] 2022-08-21 10:48:28.432 [main] Log - Trying to login the Swag Labs.
+[INFO ] 2022-08-21 10:48:28.917 [main] Log - Verifying login error: Epic sadface: Password is required
+[INFO ] 2022-08-21 10:48:29.059 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is succeed.
+[INFO ] 2022-08-21 10:48:29.062 [main] Log - Tests are ending!
+[INFO ] 2022-08-21 10:48:29.270 [main] Log - I am in onFinish method LoginTest

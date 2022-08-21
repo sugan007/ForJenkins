@@ -11,7 +11,7 @@ node{
     bat 'mvn clean test install'
     archiveArtifacts artifacts: 'target/surefire-reports/**'
     sh 'mvn clean package -DskipTests' 
-                archiveArtifacts artifacts: 'target/***.jar'
+                archiveArtifacts artifacts: 'target/*.jar'
     }
     
 }
